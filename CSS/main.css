@@ -1,1 +1,22 @@
-main.css
+.header {
+	background: white;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-family: 
+}
+
+.text {
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 4px;
+
+}
+
+.honor {
+	font-family: 'Ubuntu', sans-serif;
+	color: #8258B6;
+	padding-top: 20px;
+	letter-spacing: 1px;
+}
