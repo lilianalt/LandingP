@@ -15,7 +15,7 @@
 }
 
 .honor {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #8258B6;
 	padding-top: 20px;
 	letter-spacing: 1px;
@@ -52,3 +52,24 @@
 	border: 30px;
 	border-bottom: solid 1px #D6D7DC;
 }
+
+.social {
+	text-align: center;
+	padding: 40px;
+	background-color: #8453C8;
+}
+
+.pp {
+	text-align: justify;
+	padding-left: 300px;
+	padding-right: 300px; 
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+}
+
+.text2 {
+	color: white;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
