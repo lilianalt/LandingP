@@ -34,5 +34,12 @@
 	border: 30px;
 	border-color: black;
 	border-bottom: solid 1px #D6D7DC;
+}
 
- }
+.hombrecito2 {
+	width: 100%;
+	height: 550px;
+	background-color: #dfecf5;
+	border: 30px;
+	border-bottom: solid 1px #D6D7DC;
+}
